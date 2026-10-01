@@ -1,6 +1,6 @@
 # Predicting loan defaults on LendingClub, without leakage
 
-[![tests](https://github.com/Arocks1674/credit-risk-lendingclub/actions/workflows/tests.yml/badge.svg)](https://github.com/Arocks1674/credit-risk-lendingclub/actions/workflows/tests.yml)
+[![tests](https://github.com/Arocks1674/Credit-Risk-Prediction-lendingclub/actions/workflows/tests.yml/badge.svg)](https://github.com/Arocks1674/Credit-Risk-Prediction-lendingclub/actions/workflows/tests.yml)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
